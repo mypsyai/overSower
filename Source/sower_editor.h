@@ -427,8 +427,8 @@ namespace sower {
     // ***** pos/size *****
 
     enum {
-      kColumnWidth = 16,
-      kRowHeight = 32,
+      kColumnWidth = 36,
+      kRowHeight = 52,
       kToolbarHeight = 32,
       kToolbuttonWidth = 32,
       kChannelLeftIndent = 12,
